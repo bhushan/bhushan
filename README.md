@@ -9,7 +9,7 @@
 ### 🅼🆈 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
 
 ![PHP](https://img.shields.io/badge/-PHP-%231572B6?style=flat-square&color=blue&logo=php&logoColor=ffffff)
-![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=white&logo=laravel&logoColor=fffff)
+![Laravel](https://img.shields.io/badge/-Laravel-%231572B6?style=flat-square&color=green&logo=laravel&logoColor=fffff)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Livewire](https://img.shields.io/badge/-Livewire-%231572B6?style=flat-square&color=blueviolet&logo=laravel-livewire&logoColor=ffffff)
