@@ -29,4 +29,4 @@
 
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
-[![Bhushan's github stats](https://github-readme-stats.rckstrbhushan.vercel.app/api?username=bhushan&show_icons=true&theme=tokyonight)](https://github.com/bhushan/github-readme-stats)
+[![Bhushan's github stats](https://github-readme-stats.rckstrbhushan.vercel.app/api?username=bhushan&show_icons=true)](https://github.com/bhushan/github-readme-stats)
