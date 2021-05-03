@@ -30,3 +30,7 @@
 ### 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
 [![Bhushan's github stats](https://github-readme-stats.rckstrbhushan.vercel.app/api?username=bhushan&show_icons=true&hide_title=true)](https://github.com/bhushan/github-readme-stats)
+
+### WHATS PLAYING ON SPOTIFY?
+
+[![Spotify](https://novatorem-blond-ten.vercel.app/api/spotify)](https://open.spotify.com/user/31ffyfwlkwebw5jdoninfmeedkye)
