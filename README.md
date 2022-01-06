@@ -1,9 +1,7 @@
 ### Hi there 👋, I am Bhushan
 
-- 🔭 I’m currently working on https://github.com/bhushan/laravel-multitenancy
-- 🌱 I’m currently learning Multi-Tenancy in detail
+- 🔭 I’m currently working on https://bhushan.github.io/react-chess-game/
 - 👯 I’m looking to collaborate on packages/framework
-- 🤔 I’m looking for help with https://github.com/bhushan/laravel-multitenancy
 - 📫 How to reach me: bhushangaykawad@gmail.com
 
 ### 🅼🆈 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
