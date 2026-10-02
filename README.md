@@ -1,20 +1,16 @@
 <div align="center">
 
-# Bhushan Gaikwad
+![Bhushan Gaikwad, founder and engineer at Alfred Scholar](./assets/profile-banner.svg)
 
-**Founder and engineer at [Alfred Scholar](https://alfredscholar.com)**
-
-I build software products end to end, from product decisions and application code to cloud infrastructure and operations.
-
-[LinkedIn](https://linkedin.com/in/rckstrbhushan) · [X](https://x.com/rckstrbhushan) · [Email](mailto:bhushan@alfredscholar.com)
+[Alfred Scholar](https://alfredscholar.com) · [LinkedIn](https://linkedin.com/in/rckstrbhushan) · [X](https://x.com/rckstrbhushan) · [Email](mailto:bhushan@alfredscholar.com)
 
 </div>
 
-## What I'm working on
+## What I'm building
 
-I'm building [Alfred Scholar](https://alfredscholar.com), a research workspace for students and researchers. My work spans product, engineering, infrastructure, growth, and customer support.
+I'm building [Alfred Scholar](https://alfredscholar.com), a page-cited research workspace for scholars. It brings reading, discovery, citations, writing, and review into one place.
 
-I also contribute fixes and features upstream when the tools I use can be improved.
+My work covers product decisions, application code, cloud infrastructure, operations, growth, and customer support. I also contribute fixes upstream when the tools I use can be improved.
 
 ## Current stack
 
@@ -25,7 +21,7 @@ I also contribute fixes and features upstream when the tools I use can be improv
 
 ## How I work
 
-I prefer simple systems, short feedback loops, and shipping useful software over adding unnecessary abstraction.
+I prefer simple systems, short feedback loops, and shipping useful software over unnecessary abstraction.
 
 ## Contact
 

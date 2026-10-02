@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title desc">
+  <title id="title">Bhushan Gaikwad</title>
+  <desc id="desc">Founder and engineer at Alfred Scholar</desc>
+  <defs>
+    <linearGradient id="tile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2F6BFF"/>
+      <stop offset="1" stop-color="#2259E4"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#E4E5E8" stroke-width="1"/>
+    </pattern>
+    <clipPath id="canvas">
+      <rect width="1280" height="320" rx="20"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#canvas)">
+    <rect width="1280" height="320" fill="#F8F9FA"/>
+    <rect width="1280" height="320" fill="url(#grid)" opacity="0.62"/>
+    <circle cx="1170" cy="-80" r="330" fill="none" stroke="#2F6BFF" stroke-width="2" opacity="0.16"/>
+    <circle cx="1170" cy="-80" r="245" fill="none" stroke="#2F6BFF" stroke-width="1" opacity="0.10"/>
+    <rect x="0" y="0" width="8" height="320" fill="#2F6BFF"/>
+
+    <g transform="translate(82 84)">
+      <rect width="152" height="152" rx="34" fill="url(#tile)"/>
+      <path d="M38 110L76 43L114 110" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M38 110Q57 96 76 91Q95 96 114 110" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+
+    <text x="284" y="127" fill="#0A0B0C" font-family="Geist, Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="52" font-weight="650" letter-spacing="-1.5">Bhushan Gaikwad</text>
+    <text x="286" y="174" fill="#3F4043" font-family="Geist, Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="25" font-weight="450">Founder &amp; engineer at Alfred Scholar</text>
+    <line x1="286" y1="205" x2="882" y2="205" stroke="#D3D5D8"/>
+    <text x="286" y="244" fill="#1B4BC3" font-family="'Geist Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" letter-spacing="0.4">alfredscholar.com</text>
+  </g>
+</svg>
